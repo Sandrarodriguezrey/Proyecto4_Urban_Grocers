@@ -1,4 +1,4 @@
-# Proyecto 4: Pruebas con API para una aplicación de alimentos  Urban Grocers
+# Proyecto de práctica 4: Pruebas con API para una aplicación de alimentos - Urban Grocers
 
 ## Descripción del Proyecto
 
